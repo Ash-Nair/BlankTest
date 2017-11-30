@@ -56,7 +56,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
               account_id: account_id,
               account_name: 'useriq-unknown',
               user_email: 'useriq-unknown',
-              signup_date: '2017-11-30',
+              signup_date: 'useriq-unknown',
             })
             useriq.startTracker()
             var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
